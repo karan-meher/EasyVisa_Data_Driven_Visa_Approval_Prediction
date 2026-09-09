@@ -1,4 +1,4 @@
-# EasyVisa — Data-Driven Visa Approval Prediction
+# EasyVisa - Data-Driven Visa Approval Prediction
 
 ## 📌 Project Overview
 
